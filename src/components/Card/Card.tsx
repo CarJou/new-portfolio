@@ -16,7 +16,7 @@ interface Props {
 const StyledWrapper = styled.div`
  width: auto;
   border-radius: 10px;
-  background: #fafafa;
+  background: rgba(15, 82, 78, 0.06);
   display: flex;
   flex-direction: column;
 justify-content: flex-start
