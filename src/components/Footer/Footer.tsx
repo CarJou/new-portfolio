@@ -6,6 +6,7 @@ import styled from "styled-components";
 const StyledWrapper = styled.div`
 display: flex;
 margin-top: 50px;
+width: 100%;
 justify-content: space-evenly;
 background: rgba(15, 82, 78, 0.06);
 padding: 20px 0;
