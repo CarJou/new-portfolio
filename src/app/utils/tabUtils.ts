@@ -16,7 +16,7 @@ const tabData = {
             "Diseñé la primera página web de un emprendimiento de snacks de plátano verde 100% natural. El objetivo fue crear una página web que sirva para exhibir los productos e invite al público a conocer la marca, asi como proporcionar información sobre los puntos de venta y facilitar el acceso al contacto.",
            buttonText: "Ver proyecto",
           imageUrl: "/portada.png",
-          url: 'https://www.behance.net/gallery/200255447/TostonXitos'
+          url: 'https://www.behance.net/gallery/202429837/Tostonxitos-Landing-Page'
         },
         {
           title: "Daily UI",
